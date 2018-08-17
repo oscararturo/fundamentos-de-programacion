@@ -1,0 +1,23 @@
+// oscar iñiguez.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+void main()
+{   
+	float b,h,area;
+	cout<<"escriba la base"<<endl;
+	cin>>b;
+	cout<<"escriba la altura"<<endl;
+	cin>>h;
+	area=(b*h)/2;
+
+cout<<"El Area es:"<<area ;
+    getch();
+
+}
