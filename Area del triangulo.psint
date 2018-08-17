@@ -1,0 +1,9 @@
+Proceso tarea
+	Escribir 'inserte la base'
+	Leer B
+	Escribir 'inserte la altura'
+	Leer H
+	A<-((B*H)/2)
+	Escribir "EL AREA ES :"
+	Escribir A
+FinProceso
