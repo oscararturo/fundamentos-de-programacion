@@ -1,0 +1,9 @@
+Proceso AREADELTRIANGULO
+	Escribir 'ESCRIBA LA BASE:';
+	Leer BASE;
+	Escribir 'ESCRIBA LA ALTURA:';
+	Leer ALTURA;
+	Escribir "AREA DEL TRIANGULO ES:";
+	AREA<-BASE*ALTURA/2
+	Escribir AREA
+FinProceso
